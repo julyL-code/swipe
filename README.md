@@ -42,6 +42,6 @@ js
 ```
 
 访问示例:  
-[https://julyl.github.io/FE/tools/swipe/](https://julyl.github.io/FE/tools/swipe/)  (切换到手机模式)
+[https://julyl-code.github.io/swipe/](https://julyl-code.github.io/swipe/)  (切换到手机模式)
 
-[![]()](http://qr.liantu.com/api.php?text=https%3A%2F%2Fjulyl.github.io%2FFE%2Ftools%2Fswipe)
+[![]()](http://qr.liantu.com/api.php?text=https%3A%2F%2Fjulyl-code.github.io%2Fswipe%2F)
